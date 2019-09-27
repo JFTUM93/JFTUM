@@ -1,0 +1,2 @@
+# JFTUM
+Apprentissage par renforcement
